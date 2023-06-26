@@ -22,9 +22,9 @@ app.use(expressLayouts);
    
 //koneksi database
 const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    database: 'db_signs'
+    host: 'db4free.net', port: 3306,
+    user: 'tubesdbsigns', password: 'tubesdbsigns',
+    database: 'db_signss'
   });
 
   db.connect((err)=>{
