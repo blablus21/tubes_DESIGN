@@ -2,7 +2,8 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
+-- host: db4free.net 
+-- port: 3306
 -- Waktu pembuatan: 17 Jun 2023 pada 18.13
 -- Versi server: 10.4.28-MariaDB
 -- Versi PHP: 8.2.4
