@@ -19,7 +19,6 @@ const app = express()
 //memanggil modul biar bisa bikin layout
 app.use(expressLayouts);
 
-   
 //koneksi database
 const db = mysql.createConnection({
     host: 'db4free.net', port: 3306,
